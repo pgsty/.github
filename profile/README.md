@@ -17,3 +17,12 @@ Battery-Included, Local-First **PostgreSQL** Distribution as a Free & Better **R
 [**Get Started**](https://pigsty.io/docs/setup/install/) with the latest release: `curl -fsSL https://repo.pigsty.io/get`
 
 [![banner](https://github.com/user-attachments/assets/8213fdc4-9efd-4d92-9d52-8ec10b99f25c)](https://pigsty.io)
+
+## Repo
+
+- [pigsty](https://github.com/pgsty/pigsty): PostgreSQL in Great STYle, the local-first FOSS RDS
+- [pgsty/pig](https://github.com/pgsty/pig): The missing extension package manager for PostgreSQL
+- [pgsty/ext](https://github.com/pgsty/extensions): Metadata, docs and catalog of 400+ PG Extensions 
+- [pgsty/rpm](https://github.com/pgsty/rpm): 200+ RPM building recipe in addition to PGDG YUM repo
+- [pgsty/deb](https://github.com/pgsty/deb): 200+ DEB building recipe in addition to PGDG APT repo
+- [pgsty/infra-pkg](https://github.com/pgsty/infra-pkg): Prometheus & Grafana & Misc building receipe
