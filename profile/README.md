@@ -14,7 +14,7 @@ Battery-Included, Local-First **PostgreSQL** Distribution as a Free & Better **R
 
 [Website](https://pigsty.io/) | [Docs](https://pigsty.io/docs/) | [Extensions](https://pigsty.io/ext/) | [Features](https://pigsty.io/about/values) | [Demo](https://demo.pigsty.cc) | [Blog](https://pigsty.io/blog) | [Discuss](https://github.com/orgs/pgsty/discussions) | [Support](https://pigsty.io/price) | [中文站点](https://pigsty.cc) | [博客](https://pigsty.cc/blog)
 
-[**Get Started**](https://pigsty.io/docs/setup/install/) with the latest release: `curl -fsSL https://repo.pigsty.io/get`
+[**Get Started**](https://pigsty.io/docs/setup/install/) with the latest release: `curl -fsSL https://repo.pigsty.io/get | bash`
 
 [![banner](https://github.com/user-attachments/assets/8213fdc4-9efd-4d92-9d52-8ec10b99f25c)](https://pigsty.io)
 
@@ -22,6 +22,7 @@ Battery-Included, Local-First **PostgreSQL** Distribution as a Free & Better **R
 
 - [pigsty](https://github.com/pgsty/pigsty): PostgreSQL in Great STYle, the local-first FOSS RDS
 - [pgsty/pig](https://github.com/pgsty/pig): The missing extension package manager for PostgreSQL
+- [pgsty/pg_exporter](https://github.com/pgsty/pg_exporter): The prometheus exporter for PostgreSQL & Pgbouncer
 - [pgsty/ext](https://github.com/pgsty/extensions): Metadata, docs and catalog of 400+ PG Extensions 
 - [pgsty/rpm](https://github.com/pgsty/rpm): 200+ RPM building recipe in addition to PGDG YUM repo
 - [pgsty/deb](https://github.com/pgsty/deb): 200+ DEB building recipe in addition to PGDG APT repo
